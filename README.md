@@ -49,3 +49,5 @@ A SharePoint-integrated web application for managing employee leave requests.
   </a>
 </p>
 
+## 🎭 Fun Fact  
+I didn’t choose SharePoint… SharePoint chose me.
