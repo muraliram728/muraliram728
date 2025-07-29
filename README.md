@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Murali  
+**Frontend Developer | SharePoint & Power Platform Developer**  
 
-💻 Frontend Developer | SharePoint & Power Platform Enthusiast  
+💡 Passionate about building user‑friendly web apps and automating workflows with React, SPFx, and Microsoft Power Platform.  
+
 
 ---
 
@@ -41,6 +43,9 @@ A SharePoint-integrated web application for managing employee leave requests.
 <p align="left">
   <a href="https://www.linkedin.com/in/muraliram728/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
+  </a>
+  <a href="https://muraliram-portfolio.netlify.app/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/link.png" alt="Portfolio" width="50" height="50"/>
   </a>
 </p>
 
